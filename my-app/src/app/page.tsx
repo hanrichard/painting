@@ -31,7 +31,7 @@ export default function Home() {
       <div className={styles.container}><h2>About</h2>
         <p>XX PAINTING COMPANTY has been running in Sydney for more than 20 years, perfect quality and good price. At the same time, we pay attention to timeliness in our work, the construction progress is fast, and we will complete the work on time.</p></div>
       <div className={styles.container}><h2>Portfolios</h2>
-        <iframe width="673" height="1196" src="https://www.youtube.com/embed/gjcL2a-9SuI" title="test5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+        <iframe width="673" height="1196" src="https://www.youtube.com/embed/gjcL2a-9SuI" title="test5" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe></div>
       <div className={styles.container}>Contact</div>
       <footer className={styles.footer}>
         footer infomation
